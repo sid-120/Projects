@@ -8,3 +8,5 @@ This repository has awesome beginner friendly projects.
 
 2. Basic Website layout:In this project, you are required to create a simple HTML only website with multiple pages.The website should have a navigation bar that should be present.
 [Project URL](https://roadmap.sh/projects/basic-html-website)
+
+3. Taco_Shop: Taco Shop: A beginner-friendly project created using HTML. It’s simple yet effective for learning basic web development.
